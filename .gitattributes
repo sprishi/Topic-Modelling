@@ -1,3 +1,2 @@
 *.html linguist-vendored
 +*.R linguist-language=R
-+*.py linguist-language=Python
